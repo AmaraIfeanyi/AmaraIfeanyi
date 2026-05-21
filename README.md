@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Amara!
 
-<!--
-**AmaraIfeanyi/AmaraIfeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bootcamp-trained and self taught data analyst with a background in medical laboratory science,now building insightful projects with Excel,PowerBi and Power Query
 
-Here are some ideas to get you started:
+## Tools I work with
+•Microsoft Excel
+•PowerBi
+•Power Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+[Malaria Cases and Deaths Analysis] (...)
+[Global Poverty Trends & Inequality Analysis (SDG1)] (...)
+
+## Currently Learning 
+•Basic Python on mimo app
+•Advanced Microsoft Excel
+
+
+## Let's Connect 
+LinkedIn:www.linkedin.com/in/
+amara-ifeanyi
