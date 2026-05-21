@@ -13,14 +13,15 @@ I'm a bootcamp-trained and self taught data analyst with a background in medical
 
 ## My Projects
 [Malaria Cases and Deaths Analysis] (...)
+
 [Global Poverty Trends & Inequality Analysis (SDG1)] (...)
 
 
 ## Currently Learning 
 •Basic Python on mimo app
+
 •Advanced Microsoft Excel
 
 
 ## Let's Connect 
-LinkedIn:www.linkedin.com/in/
-amara-ifeanyi
+LinkedIn:www.linkedin.com/in/amara-ifeanyi
