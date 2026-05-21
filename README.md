@@ -14,7 +14,7 @@ I'm a bootcamp-trained and self taught data analyst with a background in medical
 ## My Projects
 [Malaria Cases and Deaths Analysis] (https://github.com/AmaraIfeanyi/Malaria-Cases-and-Death-Analysis)
 
-[Global Poverty Trends & Inequality Analysis (SDG1)] (...)
+[Global Poverty Trends & Inequality Analysis (SDG1)] (https://github.com/AmaraIfeanyi/Global-Poverty-Trends-Inequality-Analysis-SDG1-)
 
 
 ## Currently Learning 
